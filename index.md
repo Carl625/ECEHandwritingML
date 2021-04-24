@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Hello](\hello.html) and [Handwriting](\handwriting.html)
+[Hello](https://carl625.github.io/ECEHandwritingML/hello.html) and [Handwriting](https://carl625.github.io/ECEHandwritingML/handwriting.html)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
